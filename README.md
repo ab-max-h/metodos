@@ -1,3 +1,3 @@
 # Commit inicial
 
-Esto es una prueba
+Agregando las bibliotecas necesarias
